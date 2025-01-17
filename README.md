@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8" />
     <style>
-     body{background-color: black;}
-     p{color: white;}
-      
+     body {background-color: black;}
+     p {color: white;font-family:irish grover;}
+     h2 {color:red;text-align: center;} 
     </style>
   </head>
   
@@ -16,7 +17,7 @@
    <br>
    </br>
    <h2>
- &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;DOMICILE
+    DOMICILE
    </h2>   
    
     </body>
