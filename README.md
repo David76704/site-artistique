@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8"/>
     <style>
      body {background-color: black;}
-     p {color: white;font-family:irish grover;}
-     h2 {color:red;text-align: center;} 
+     h2 {color: white;font-family:Irish Grover;}
+     p {color:red;text-align: center;} 
     </style>
   </head>
   
@@ -16,9 +16,12 @@
    </p>
    <br>
    </br>
-   <h2>
+   <div>
+       <h2>
     DOMICILE
-   </h2>   
+   </h2>    
+   </div>
+
    
     </body>
     
